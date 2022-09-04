@@ -3,10 +3,10 @@
 Demoed github autopilot with tensorflow and pytorch to create a model to learn y= 3x^2 + 4x + 10
 
 Video part 1
-https://youtu.be/HEEI8J7f1_0
+https://youtu.be/pJrTNkj1lmI
 
 Video part 2
-https://youtu.be/pJrTNkj1lmI
+https://youtu.be/l1ETLg-TdVQ
 
 #part 2
 Demoed text to image generators by providing captions
@@ -22,26 +22,27 @@ A white elephant on the beach
 
 A black cat and a white dog
 
-![dallemini_2022-9-3_12-38-45](https://user-images.githubusercontent.com/89234611/188285522-9e516efe-d5c5-41e4-80c9-d82fbd2175aa.png)
+![dallemini_2022-9-4_12-14-45](https://user-images.githubusercontent.com/89234611/188329857-b1ab7e5e-5d5f-4e05-bec2-9f020c3712cc.png)
+
 
 A clown in the city
-![dallemini_2022-9-3_12-41-1](https://user-images.githubusercontent.com/89234611/188285563-a0dacb9c-1b3f-44b0-a87b-ce2c92c5816a.png)
+![dallemini_2022-9-4_12-16-27](https://user-images.githubusercontent.com/89234611/188329910-89c7b20f-2af2-421f-903c-e4f76a0cb740.png)
 
 A car in the sea
 
-![craiyon_124104_car_in_the_sea](https://user-images.githubusercontent.com/89234611/188285568-bce59f68-329b-4c93-88fd-fa8d406a296e.png)
+![dallemini_2022-9-4_12-17-44](https://user-images.githubusercontent.com/89234611/188329948-1a1f700d-84d4-4f05-847c-c4ed43ba2f24.png)
 
 Flying train
 
-![craiyon_124302_flying_train](https://user-images.githubusercontent.com/89234611/188285635-272c69b5-33a5-455c-b83d-53c8949f2744.png)
+![dallemini_2022-9-4_12-19-8](https://user-images.githubusercontent.com/89234611/188330006-1dd048b7-4b83-4d77-ae79-c48fe5e3627e.png)
 
 Super fast car
 
-![dallemini_2022-9-3_12-42-56](https://user-images.githubusercontent.com/89234611/188285647-51ff8fb2-bb77-4f39-b361-3f3853e2f4ed.png)
+![dallemini_2022-9-4_12-20-27](https://user-images.githubusercontent.com/89234611/188330052-461291e4-6009-4d4d-8f79-be57b3525415.png)
 
 einstein playing the piano
 
-![dallemini_2022-9-3_12-46-23](https://user-images.githubusercontent.com/89234611/188285742-a7570c5e-c77e-4c07-ae0c-f2f755a5fcbb.png)
+![dallemini_2022-9-4_12-21-56](https://user-images.githubusercontent.com/89234611/188330109-b84c261d-1c09-46c1-a26b-fd9d7f33849d.png)
 
 
 
@@ -59,7 +60,8 @@ Prompt : A black lipon in snow
 
 A pink cat
 
-![image](https://user-images.githubusercontent.com/89234611/188285532-ec57e04e-de4c-41f7-a7c0-64ecc7ba260c.png)
+![image](https://user-images.githubusercontent.com/89234611/188329798-1e8d5575-28f5-4745-87cb-29fe97087208.png)
+
 
 Raining on a sunny day
 
@@ -67,12 +69,12 @@ Raining on a sunny day
 
 Sailing plane
 
-![image](https://user-images.githubusercontent.com/89234611/188285609-b931b947-ef77-4575-b982-ce6c424d8830.png)
+![image](https://user-images.githubusercontent.com/89234611/188329831-2efd562f-ff4a-4624-a48c-0327e910449e.png)
 
 
 
 youtube link for the demo
 
-https://youtu.be/fxEeuurrsic
+https://www.youtube.com/watch?v=dvIgaKYAhdo
 
 
